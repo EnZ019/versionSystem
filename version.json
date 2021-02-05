@@ -1,8 +1,6 @@
 {
-  "version":"0.0.1",
+  "version":"1.1",
   "patchnote" : [
-    "- Fix issues with ESX.",
-    "- Changing a condition in the vehicle.lua file.",
-    "- Fixing the SetVehicleUndriveable and SetVehicleEngineOn natives on the initialisation of the vehicle (vehicle.lua)."
+    "- Fix issues with ESX."
   ]
 }
